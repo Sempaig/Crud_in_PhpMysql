@@ -1,0 +1,6 @@
+name bd: php_mysql_crud
+name table: task
+name colum: id(int, primary key, auto_increment) 
+title (varchar255)
+description (text)
+created_at (Current_timestamp) 
